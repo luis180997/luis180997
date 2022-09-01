@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a mechatronics engineering graduate.
+I'm a person very passionate about data science, and for this reason, I created this repository to show my personal projects focused on machine learning, deep learning, image processing, web development, and other projects.
+
 <!--
 **luis180997/luis180997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ## SKILLS
 
 ## CONTACT
+
+-->
